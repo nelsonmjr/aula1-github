@@ -6,6 +6,8 @@ public class Main {
 		
 		// Alteração de temperatura em graus Celsius
 		
+		// Alteração de temperatura em graus Fahrenheit
+		
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		char resp;
